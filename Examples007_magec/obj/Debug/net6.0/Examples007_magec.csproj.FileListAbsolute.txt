@@ -1,0 +1,15 @@
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.csproj.AssemblyReference.cache
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.AssemblyInfoInputs.cache
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.AssemblyInfo.cs
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.csproj.CoreCompileInputs.cache
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\bin\Debug\net6.0\Examples007_magec.exe
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\bin\Debug\net6.0\Examples007_magec.deps.json
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\bin\Debug\net6.0\Examples007_magec.runtimeconfig.json
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\bin\Debug\net6.0\Examples007_magec.dll
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\bin\Debug\net6.0\Examples007_magec.pdb
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.dll
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\refint\Examples007_magec.dll
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.pdb
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\Examples007_magec.genruntimeconfig.cache
+C:\Users\KyMuP\Desktop\Examples\Examples007_magec\obj\Debug\net6.0\ref\Examples007_magec.dll
