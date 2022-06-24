@@ -1,0 +1,15 @@
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.csproj.AssemblyReference.cache
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.AssemblyInfoInputs.cache
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.AssemblyInfo.cs
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.csproj.CoreCompileInputs.cache
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\bin\Debug\net6.0\Examles005_Condition_if_else.exe
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\bin\Debug\net6.0\Examles005_Condition_if_else.deps.json
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\bin\Debug\net6.0\Examles005_Condition_if_else.runtimeconfig.json
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\bin\Debug\net6.0\Examles005_Condition_if_else.dll
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\bin\Debug\net6.0\Examles005_Condition_if_else.pdb
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.dll
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\refint\Examles005_Condition_if_else.dll
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.pdb
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\Examles005_Condition_if_else.genruntimeconfig.cache
+C:\Users\KyMuP\Desktop\Examples\Examles005_Condition_if_else\obj\Debug\net6.0\ref\Examles005_Condition_if_else.dll
