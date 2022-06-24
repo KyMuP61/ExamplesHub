@@ -1,0 +1,15 @@
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\bin\Debug\net6.0\Exambles006_Base.exe
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\bin\Debug\net6.0\Exambles006_Base.deps.json
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\bin\Debug\net6.0\Exambles006_Base.runtimeconfig.json
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\bin\Debug\net6.0\Exambles006_Base.dll
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\bin\Debug\net6.0\Exambles006_Base.pdb
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.csproj.AssemblyReference.cache
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.AssemblyInfoInputs.cache
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.AssemblyInfo.cs
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.csproj.CoreCompileInputs.cache
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.dll
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\refint\Exambles006_Base.dll
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.pdb
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\Exambles006_Base.genruntimeconfig.cache
+C:\Users\KyMuP\Desktop\Examples\Exambles006_Base\obj\Debug\net6.0\ref\Exambles006_Base.dll
